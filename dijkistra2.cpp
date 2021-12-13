@@ -1,4 +1,4 @@
-// implementing dijkistra along with info
+// implementing dijkistra along with shortest path
 #include<bits/stdc++.h>
 using namespace std;
 const int inf=1e7;
