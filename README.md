@@ -52,6 +52,13 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
+### 🤖 AI Tools
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logoColor=white&label=Claude"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
+
 ---
 
 ## 🌱 Interests
@@ -62,6 +69,16 @@
 - 🛠️ Backend Development  
 - 🧩 Software Development  
 - 📈 Business Intelligence & Visualization  
+
+---
+
+## 📜 Certifications
+- ✅ IBM Data Science Professional Certificate – [Coursera](#)
+- ✅ Google Data Analytics Certificate – [Coursera](#)
+- ✅ Python for Everybody – [Coursera](#)
+- ✅ Backend Web Development with Django – [YourProvider](#)
+
+> _(Replace or add certifications with your actual links & titles)_
 
 ---
 
