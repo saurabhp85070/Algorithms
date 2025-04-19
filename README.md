@@ -73,10 +73,11 @@
 ---
 
 ## 📜 Certifications
-- ✅ IBM Data Science Professional Certificate – [Coursera](#)
-- ✅ Google Data Analytics Certificate – [Coursera](#)
-- ✅ Python for Everybody – [Coursera](#)
-- ✅ Backend Web Development with Django – [YourProvider](#)
+- ✅ [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/4TYTNFCBZNP7)
+- ✅ [Google Data Analytics Certificate](https://www.coursera.org/account/accomplishments/specialization/36PANQ9H59A9)
+- ✅ [Django Web Framework](https://www.coursera.org/account/accomplishments/verify/K3CTQ2GGM6MQa)
+- ✅ [APIs](https://www.coursera.org/account/accomplishments/verify/S22V3QZ2A6VT)
+
 
 > _(Replace or add certifications with your actual links & titles)_
 
